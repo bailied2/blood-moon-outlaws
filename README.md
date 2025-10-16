@@ -1,5 +1,5 @@
-#BLOOD MOON OUTLAWS 
-###made by: Devin, Kaylei, Lee, and Tyler
+# BLOOD MOON OUTLAWS 
+### made by: Devin, Kaylei, Lee, and Tyler
 
 *Game Description* 
 
